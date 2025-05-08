@@ -1,0 +1,30 @@
+{
+  "collapse-filter": false,
+  "search": "tag:#MageArchetype [\"traittype\":m]",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#ChampionArchetype  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -0.5,
+  "nodeSizeMultiplier": 1.01875,
+  "lineSizeMultiplier": 4.51510416666667,
+  "collapse-forces": true,
+  "centerStrength": 0.427083333333333,
+  "repelStrength": 10.3125,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.8312802721711543,
+  "close": false
+}

@@ -1,0 +1,21 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Minor Trait Type": "multitext",
+    "MinorTraitPrereqs": "multitext",
+    "MinorTraitType": "multitext",
+    "AttributeScores": "multitext",
+    "ContentDependencies": "multitext",
+    "Condition_types": "multitext",
+    "FoundationTraitTypes": "multitext",
+    "WoundTypes": "multitext",
+    "Traits": "multitext",
+    "MajorTraits": "multitext",
+    "MinorTraits": "multitext",
+    "ItemPrereqs": "multitext",
+    "EntityTags": "multitext",
+    "WoundTags": "multitext"
+  }
+}

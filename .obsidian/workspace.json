@@ -1,0 +1,423 @@
+{
+  "main": {
+    "id": "6ffaeff93b6bee91",
+    "type": "split",
+    "children": [
+      {
+        "id": "3eec284c92da4a65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0abbd3da02478404",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fantasy Weaponry/Minor Traits/Reach Upgrade.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reach Upgrade"
+            }
+          },
+          {
+            "id": "c31a9095bbac8e19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fantasy Weaponry/Minor Traits/Reach Upgrade.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reach Upgrade"
+            }
+          },
+          {
+            "id": "3976f650d75ae285",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Foundations/Rules/Wounds.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Wounds"
+            }
+          },
+          {
+            "id": "28cdd3e00079fe95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Entity General Rules/(START HERE) Entity Overview.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "(START HERE) Entity Overview"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "d8f33978c64dda3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97704263a4b54bce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A_TestCharacters/Champion2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Champion2"
+            }
+          },
+          {
+            "id": "31cec89812d2e454",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Foundations/Wounds/Fatal.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Fatal"
+            }
+          },
+          {
+            "id": "c20c1fc58a8b1a9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Archetype - Mage/Minor Traits/Ritualist.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ritualist"
+            }
+          },
+          {
+            "id": "fcb20671ee449db5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z_Templates/Core Foundations/Wound_Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wound_Template"
+            }
+          },
+          {
+            "id": "5bc8178df407ad5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Resting/Wounds/Gut Wound.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gut Wound"
+            }
+          },
+          {
+            "id": "2356de62c6c7d39f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fantasy Weaponry/Wounds/Lost Arm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lost Arm"
+            }
+          },
+          {
+            "id": "76a247b626eeafde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fantasy Weaponry/Weapons/Longsword.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Longsword"
+            }
+          },
+          {
+            "id": "5928656b9cac1ca6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fantasy Weaponry/Weapons/Warhammer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Warhammer"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "577066f9255afdc2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3c18fb810648478",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f111983c6e545ad",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8ac6a47c92e7d0f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Wound  ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "eadbc8e03c9a466e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e5b6a78fe3d103a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f01704eebcac832f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54fdac8a09785b73",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "General Rules/Entities/Endurances.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Endurances"
+            }
+          },
+          {
+            "id": "483241c5f36d5e61",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "General Rules/Entities/Endurances.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Endurances"
+            }
+          },
+          {
+            "id": "b0f251ca9f86350e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f50de231b027c390",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Entity General Rules/(START HERE) Entity Overview.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of (START HERE) Entity Overview"
+            }
+          },
+          {
+            "id": "9ded3938eb8eb954",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 595.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "9ded3938eb8eb954",
+  "lastOpenFiles": [
+    "git/LICENSE",
+    "git",
+    "LICENSE",
+    "Fantasy Weaponry/Wounds/Lost Arm.md",
+    "Fantasy Weaponry/Wounds/Injured Leg.md",
+    "Core Resting/Wounds/Gut Wound.md",
+    "Core Foundations/Wounds/Fatal.md",
+    "Core Foundations/Wounds/Drained.md",
+    "Z_Templates/Core Foundations/Wound_Template.md",
+    "Core Foundations/Wounds/Winded.md",
+    "Core Foundations/Wounds/Stunned.md",
+    "Core Resting/Wounds/Shaken.md",
+    "Core Foundations/Wounds/Nicked.md",
+    "Fantasy Weaponry/Wounds/Untitled",
+    "Core Foundations/Rules/Wounds.md",
+    "Core Foundations/Foundation Traits/Creature.md",
+    "Fantasy Weaponry/Minor Traits/Ranged.md",
+    "Core Resting/Wounds/Untitled",
+    "Archetype - Mage/Minor Traits/Ritualist.md",
+    "Gauntlet Archetypes/Rules/Gauntlet Character Creation.md",
+    "Archetype - Rogue/Minor Traits/Evasion.md",
+    "Core Foundations/Conditions/Exhausted.md",
+    "Core Foundations/Wounds/Draine.md",
+    "Core Foundations/Rules/Death.md",
+    "Core Foundations/Foundation Traits/Wound.md",
+    "Z_Templates/General Rules/Foundation_Trait_Template.md",
+    "Z_Templates/General Rules/Major_Trait_Template.md",
+    "Z_Templates/General Rules/Minor_Trait_Template.md",
+    "Z_Templates/General Rules/Entity_Template.md",
+    "Z_Templates/General Rules/Condition_Template.md",
+    "Core Magic/Foundation Traits",
+    "Core Magic/Minor Traits",
+    "_debug_remotely_save",
+    "Core Magic/Major Traits",
+    "Archetype - Mage/Minor Traits",
+    "Archetype - Mage/Major Traits"
+  ]
+}

@@ -89,12 +89,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "Core Combat/Condition/Prone.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "readme"
+              "title": "Prone"
             }
           }
         ],
@@ -200,12 +200,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fantasy Weaponry/Wounds/Lost Arm.md",
+                "file": "Gauntlet Archetypes/Rules/Gauntlet Character Creation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lost Arm"
+              "title": "Gauntlet Character Creation"
             }
           },
           {
@@ -395,39 +395,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3762130e369bdaaa",
+  "active": "2f111983c6e545ad",
   "lastOpenFiles": [
-    "Entity General Rules/(START HERE) Entity Overview.md",
+    "Core Combat/Condition",
+    "Core Combat/Untitled.md",
+    "Core Combat/Condition/Prone.md",
+    "Gauntlet Archetypes/Rules/Gauntlet Character Creation.md",
+    "Fantasy Weaponry/Wounds/Lost Arm.md",
+    "Core Foundations/Conditions/Exhausted.md",
+    "Core Foundations/Minor Traits/Speed Upgrade.md",
+    "Core Foundations/Conditions/Slowed.md",
+    "Core Foundations/Conditions/Dead.md",
+    "Core Foundations/Conditions/Broken.md",
+    "Fantasy Weaponry/Wounds/Injured Leg.md",
+    "Archetype - Mage/Minor Traits/Prepared Spells.md",
+    "Archetype - Mage/Major Traits/Mage.md",
+    "Archetype - Mage/Minor Traits/Known Spells.md",
+    "Core Magic/Major Traits/Magic Surge Upgrade.md",
+    "Core Magic/Major Traits/Magic User.md",
+    "Core Magic/Foundation Traits/Spell.md",
+    "Archetype - Mage/Minor Traits/Focused Recovery.md",
+    "Archetype - Mage/Minor Traits/Combat Rituals.md",
+    "Core Magic/Minor Traits/Inherent Spell.md",
+    "Core Magic/Spells.md",
     "readme.md",
+    "Entity General Rules/(START HERE) Entity Overview.md",
     "git/LICENSE",
     "git",
     "LICENSE",
-    "Fantasy Weaponry/Wounds/Lost Arm.md",
-    "Fantasy Weaponry/Wounds/Injured Leg.md",
     "Core Resting/Wounds/Gut Wound.md",
     "Core Foundations/Wounds/Fatal.md",
     "Core Foundations/Wounds/Drained.md",
-    "Z_Templates/Core Foundations/Wound_Template.md",
-    "Core Foundations/Wounds/Winded.md",
-    "Core Foundations/Wounds/Stunned.md",
-    "Core Resting/Wounds/Shaken.md",
-    "Core Foundations/Wounds/Nicked.md",
     "Fantasy Weaponry/Wounds/Untitled",
-    "Core Foundations/Rules/Wounds.md",
-    "Core Foundations/Foundation Traits/Creature.md",
-    "Fantasy Weaponry/Minor Traits/Ranged.md",
     "Core Resting/Wounds/Untitled",
-    "Archetype - Mage/Minor Traits/Ritualist.md",
-    "Gauntlet Archetypes/Rules/Gauntlet Character Creation.md",
-    "Archetype - Rogue/Minor Traits/Evasion.md",
-    "Core Foundations/Conditions/Exhausted.md",
-    "Core Foundations/Wounds/Draine.md",
-    "Core Foundations/Rules/Death.md",
-    "Core Foundations/Foundation Traits/Wound.md",
-    "Z_Templates/General Rules/Foundation_Trait_Template.md",
-    "Z_Templates/General Rules/Major_Trait_Template.md",
-    "Z_Templates/General Rules/Minor_Trait_Template.md",
-    "Z_Templates/General Rules/Entity_Template.md",
     "Core Magic/Foundation Traits",
     "Core Magic/Minor Traits",
     "_debug_remotely_save",

@@ -1,50 +1,36 @@
 ---
 tags:
-  - Object
-  - Item
-  - Weapon
   - Entity
+  - Spell
 EntityValue: "0"
 Source: None
-ObjectSize: 1 meter
-ObjectResistance: "20"
-ObjectLuck: "20"
-ObjectBody: "5"
 FoundationTraits:
-  - "[[Object]]"
+  - "[[Spell]]"
 MajorTraits:
-  - "[[Weapon]]"
-  - "[[Item]]"
+  - "[[None]]"
 MinorTraits:
   - "[[None]]"
-WeaponReach: 1 meter
-WeaponScore: Strength
-WeaponDamage: "1"
-ItemSlot: None
-ItemPrereqs:
-  - None
-EntityTags:
-  - None
 cssclasses:
   - clean-embeds
+EntityTags:
+  - None
+SpellTags:
+  - None
+SpellPower: "1"
+SpellVersatility: "1"
+SpellCastingTime: 1 Action
 ---
 ***Value:*** `=this.EntityValue`
-***Reach:*** `=this.WeaponReach`
-***Score:*** `=this.WeaponScore`
-***Damage:*** `=this.WeaponDamage`
-***Slot:*** `=this.ItemSlot`
-***Prerequisites:*** `=this.ItemPrereqs`
+***Power:*** `=this.SpellPower`
+***Versatility:*** `=this.SpellVersatility`
+***Casting Time:*** `=this.SpellCastingTime`
 ***Description:***
 
 
 
-***Size:*** `=this.ObjectSize`
-***Resistance:*** `=this.ObjectResistance`
-***Luck:*** `=this.ObjectLuck`
-***Body:*** `=this.ObjectBody`
-
-***Tags:*** `=this.EntityTags`
+***Tags:*** `=filter(unique(this.EntityTags + this.SpellTags),(x) => x!="None")`
 ***Source:*** `=this.Source`
+### Traits
 
 ***Minor Traits:***
 ```dataviewjs

@@ -1,6 +1,7 @@
 ---
 tags:
   - Object
+  - Entity
 EntityValue: "0"
 Source: None
 ObjectSize: 1 meter

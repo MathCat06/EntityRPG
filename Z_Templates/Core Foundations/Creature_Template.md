@@ -1,6 +1,7 @@
 ---
 tags:
   - Creature
+  - Entity
 EntityValue: "0"
 Source: None
 CreatureSpeed: 1 meter

@@ -16,6 +16,7 @@
     "MinorTraits": "multitext",
     "ItemPrereqs": "multitext",
     "EntityTags": "multitext",
-    "WoundTags": "multitext"
+    "WoundTags": "multitext",
+    "SpellTags": "multitext"
   }
 }

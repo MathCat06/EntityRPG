@@ -1,12 +1,11 @@
 ---
 tags:
   - Object
-  - Item
   - Weapon
   - Entity
 EntityValue: "0"
-Source: None
-ObjectSize: 1 meter
+Source: "[[Fantasy Weaponry Overview|Fantasy Weaponry]]"
+ObjectSize: 0 meters
 ObjectResistance: "20"
 ObjectLuck: "20"
 ObjectBody: "5"
@@ -14,29 +13,23 @@ FoundationTraits:
   - "[[Object]]"
 MajorTraits:
   - "[[Weapon]]"
-  - "[[Item]]"
 MinorTraits:
   - "[[None]]"
-WeaponReach: 1 meter
-WeaponScore: Strength
-WeaponDamage: "1"
-ItemSlot: None
-ItemPrereqs:
-  - None
-EntityTags:
-  - None
 cssclasses:
   - clean-embeds
+WeaponReach: 1 meter
+WeaponScore: Strength
+WeaponDamage: 2 impact damage
+EntityTags:
+  - None
 ---
 ***Value:*** `=this.EntityValue`
 ***Reach:*** `=this.WeaponReach`
 ***Score:*** `=this.WeaponScore`
 ***Damage:*** `=this.WeaponDamage`
-***Slot:*** `=this.ItemSlot`
-***Prerequisites:*** `=this.ItemPrereqs`
 ***Description:***
 
-
+An unarmed strike is possessed by all [[Creature|Creatures]], whether it be fists, claws, or a bite.
 
 ***Size:*** `=this.ObjectSize`
 ***Resistance:*** `=this.ObjectResistance`

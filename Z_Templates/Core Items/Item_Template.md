@@ -2,6 +2,7 @@
 tags:
   - Item
   - Object
+  - Entity
 EntityValue: "0"
 Source: None
 ItemSlot: None

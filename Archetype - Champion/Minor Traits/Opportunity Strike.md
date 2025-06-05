@@ -6,7 +6,7 @@ TraitValue: "1"
 TraitType:
   - Minor Trait
 TraitPrereqs:
-  - "[[Champion's Strike]]"
+  - "[[Melee Proficiency]]"
 Source: "[[Champion Archetype Overview|Champion Archetype]]"
 ---
 ***Value:*** `=this.TraitValue`
@@ -14,6 +14,6 @@ Source: "[[Champion Archetype Overview|Champion Archetype]]"
 ***Prerequisites:*** `=this.TraitPrereqs`
 ***Description:***
 
-When one of your allies attacks any Creature you could target with one of your Weapons without the [[Ranged]] trait, they roll one die with advantage. Halve the reach of weapons with the [[Thrown]] trait for the purposes of this target.
- 
+**1 Action (Reaction):** When a Creature you could target with a weapon without the [[Ranged]] trait would leave your reach, you may make an attack against them. Ignore the [[Thrown]] trait for the purposes of this reaction.
+
 ***Source:*** `=this.Source`

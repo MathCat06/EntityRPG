@@ -14,6 +14,6 @@ Source: "[[Champion Archetype Overview|Champion Archetype]]"
 ***Prerequisites:*** `=this.TraitPrereqs`
 ***Description:***
 
-**1 Action (Reaction):** When you use your Intercession trait, immediately make a single attack against the Creature that instigated the Intercession.
+**1 Action (Reaction):** When you could use your Intercession trait, immediately make a single attack against the Creature that instigated the Intercession.
 
 ***Source:*** `=this.Source`

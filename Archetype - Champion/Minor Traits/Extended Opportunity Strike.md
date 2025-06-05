@@ -6,7 +6,7 @@ TraitValue: "1"
 TraitType:
   - Minor Trait
 TraitPrereqs:
-  - "[[Champion's Strike]]"
+  - "[[Opportunity Strike]]"
 Source: "[[Champion Archetype Overview|Champion Archetype]]"
 ---
 ***Value:*** `=this.TraitValue`
@@ -14,6 +14,6 @@ Source: "[[Champion Archetype Overview|Champion Archetype]]"
 ***Prerequisites:*** `=this.TraitPrereqs`
 ***Description:***
 
-When one of your allies attacks any Creature you could target with one of your Weapons without the [[Ranged]] trait, they roll one die with advantage. Halve the reach of weapons with the [[Thrown]] trait for the purposes of this target.
- 
+When you hit with an attack using your Opportunity Strike reaction, you may additionally either reduce the speed of the targeted creature to 0 until your next turn, or immediately move  with them a distance equal to or less than your speed.
+
 ***Source:*** `=this.Source`

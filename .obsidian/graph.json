@@ -1,6 +1,6 @@
 {
-  "collapse-filter": false,
-  "search": "tag:#MageArchetype [\"traittype\":m]",
+  "collapse-filter": true,
+  "search": "tag:#ChampionArchetype [\"traittype\":m]",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -25,6 +25,6 @@
   "repelStrength": 10.3125,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.8312802721711543,
+  "scale": 1.616700834668019,
   "close": false
 }

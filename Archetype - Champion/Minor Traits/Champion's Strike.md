@@ -14,6 +14,6 @@ Source: "[[Champion Archetype Overview|Champion Archetype]]"
 ***Prerequisites:*** `=this.TraitPrereqs`
 ***Description:***
 
-When you hit with an [[Attack]], you may spend and roll one of your Champion Dice and add its value to the Damage Roll.
+When you hit with an [[Attack]], you may spend and roll one of your Ability Dice and add its value to the Damage Roll.
 
 ***Source:*** `=this.Source`

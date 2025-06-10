@@ -6,7 +6,7 @@ TraitValue: "3"
 TraitType:
   - Minor Trait
 TraitPrereqs:
-  - "[[Champion]]"
+  - "[[Creature]]"
 Source: "[[Champion Archetype Overview|Champion Archetype]]"
 ---
 ***Value:*** `=this.TraitValue`

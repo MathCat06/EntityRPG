@@ -11,14 +11,10 @@
             "id": "350140b6cfe47442",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Archetype - Champion/Champion Archetype Overview.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Champion Archetype Overview"
+              "title": "New tab"
             },
             "group": "53fc8c76fb58ac29"
           }
@@ -32,14 +28,10 @@
             "id": "002bacee72297895",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Archetype - Champion/Champion Archetype Overview.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Champion Archetype Overview"
+              "title": "New tab"
             },
             "group": "53fc8c76fb58ac29"
           }
@@ -120,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Archetype - Champion/Champion Archetype Overview.md",
+            "file": "Gauntlet Archetypes/Minor Traits/Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -178,13 +170,24 @@
   },
   "active": "350140b6cfe47442",
   "lastOpenFiles": [
+    "Gauntlet Archetypes/Minor Traits/Untitled.md",
+    "Gauntlet Archetypes/Minor Traits/Ability Die.md",
+    "Archetype - Champion/Minor Traits/Cleave.md",
+    "Gauntlet Archetypes/Minor Traits",
+    "Archetype - Champion/Minor Traits/Champion's Strike.md",
+    "Archetype - Champion/Minor Traits/Ranged Proficiency.md",
+    "Archetype - Champion/Minor Traits/Defensive Proficiency.md",
+    "Archetype - Champion/Minor Traits/Melee Proficiency.md",
+    "Core Resting/Rules/Recovery Period.md",
+    "Core Resting/Rules/Rest Period.md",
+    "Core Resting/Wounds/Gut Wound.md",
+    "Archetype - Champion/Champion Archetype Overview.md",
     "Archetype - Champion/Minor Traits/Extended Opportunity Strike.md",
     "Archetype - Champion/Minor Traits/Opportunity Strike.md",
     "Archetype - Champion/Minor Traits/Flanking.md",
     "Archetype - Champion/Minor Traits/Retributive Strike.md",
     "Archetype - Champion/Minor Traits/Intercession.md",
     "Archetype - Champion/Minor Traits/Riposte.md",
-    "Archetype - Champion/Minor Traits/Cleave.md",
     "Core Foundations/Rules/Damage.md",
     "Core Combat/Rules/Combat Actions.md",
     "Core Combat/Rules/Attack.md",
@@ -196,23 +199,12 @@
     "A_TestCharacters",
     "Core Adventure/Attributes/Perceive.md",
     "Core Adventure/Attributes/Core.md",
-    "Core Adventure/Attributes/Deception.md",
-    "Core Adventure/Attributes/Deduct.md",
-    "Core Adventure/Attributes/Stealth.md",
-    "Core Adventure/Attributes/Motive.md",
-    "Core Adventure/Attributes/Deft.md",
-    "Core Adventure/Attributes/Persuasion.md",
-    "Core Adventure/Attributes/Push.md",
-    "Core Adventure/Attributes/Acrobatics.md",
     "Core Adventure/Attributes",
-    "Core Adventure/Core Adventure Overview.md",
     "Core Adventure",
-    "Core Crafting/Rules/Crafting.md",
     "Core Crafting/Rules",
     "Core Crafting/Attributes",
     "Core Crafting",
     "Core Combat/Rules",
-    "Core Combat/Attributes",
-    "Core Combat/Major Traits"
+    "Core Combat/Attributes"
   ]
 }

@@ -14,6 +14,6 @@ Source: "[[Champion Archetype Overview|Champion Archetype]]"
 ***Prerequisites:*** `=this.TraitPrereqs`
 ***Description:***
 
-When you hit with an attack you make using a weapon without the [[Ranged]] trait, you may spend a Champion Die to immediately make a second attack with that weapon, targeting a different [[Entities|Entity]] than the original attack.
+When you hit with an attack you make using a weapon without the [[Ranged]] trait, you may spend an Ability Die to immediately make a second attack with that weapon, targeting a different [[Entities|Entity]] than the original attack.
 
 ***Source:*** `=this.Source`
